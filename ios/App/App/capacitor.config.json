@@ -1,8 +1,0 @@
-{
-  "appId": "com.example.app",
-  "appName": "push-notify",
-  "bundledWebRuntime": false,
-  "npmClient": "yarn",
-  "webDir": "www",
-  "cordova": {}
-}
